@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - check the code 
+ * reset_to_98 - the pointer
+ * @n: the parameter
  *
- * Return : nothing
+ * Return: nothing
  */
 void reset_to_98(int *n)
 {
-    *n = 98;
-   
+	*n = 98;
 }
